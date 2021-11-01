@@ -25,3 +25,7 @@ Bienbenidos al repositorio donde seva a realizar el proyecto del Frond-end del c
 
 ## Nobiembre 1 del 11 2021
 El contenido que va realizar cada compañero del equipo
+
+### Jhon
+
+- Ejemplo creacion de un index del ejemplo
